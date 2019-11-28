@@ -7,8 +7,8 @@
 }
 /* Fixed sizes for images */
 .leafSize {
-    width: 65px;
-    height: 65px;
+    width: 20px;
+    height: 30px;
     -khtml-user-select: none;
     -o-user-select: none;
     -moz-user-select: none;
