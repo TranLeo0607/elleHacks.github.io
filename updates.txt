@@ -2,6 +2,12 @@
         Update Log
     ElleHacks Website
 ***************************
+Updates As of 2020-01-21
+Updated by: Leo Tran
+Added in the final sponsors.
+Added the schedule onto the website.
+Changed the register button and made it so that it moved the webpage further down.
+
 Updates As of 2020-01-15
 Updated by: Leo tran
 Added new logo images for sponsors.
